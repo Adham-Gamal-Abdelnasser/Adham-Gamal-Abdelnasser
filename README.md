@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<h1 align="center">D O U M A V E R S E</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" />
+</p>
 <!--
 **Adham-Gamal-Abdelnasser/Adham-Gamal-Abdelnasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
