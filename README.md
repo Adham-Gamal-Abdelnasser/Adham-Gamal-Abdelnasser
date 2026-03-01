@@ -48,6 +48,6 @@ const Doumaverse = {
           <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/> 
         </a> 
       </p>
-      <img src="https://raw.githubusercontent.com/Adham-Gamal-Abdelnasser/Adham-Gamal-Abdelnasser/output/github-contribution-grid-snake.svg" />
+     <img src="https://raw.githubusercontent.com/Adham-Gamal-Abdelnasser/Adham-Gamal-Abdelnasser/output/github-contribution-grid-snake-dark.svg" />
       <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Adham-Gamal-Abdelnasser&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adham-Gamal-Abdelnasser&theme=tokyonight&hide_border=true&background=0d1117" /> </p>
       <p align="center"> 🕳️ <strong>Doumaverse is not a profile. It's a gravitational field.</strong> </p
