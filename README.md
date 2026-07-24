@@ -39,7 +39,7 @@ const Doumaverse = {
 </pre>
 
 <br/>
-      <p align="center"> <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind,redux,git,figma&theme=dark" /> </p>
+      <p align="center"> <img src="https://skillicons.dev/icons?i=angular,react,next,ts,js,html,css,tailwind,redux,git,figma&theme=dark" /> </p>
       <p align="center"> 
         <a href="https://www.linkedin.com/in/adhamgamal96/" target="_blank"> 
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
